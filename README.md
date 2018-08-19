@@ -1,4 +1,4 @@
-![](https://travis-ci.org/VirtuaBoza/reusable-components.svg?branch=master)
+[![Build Status](https://travis-ci.org/VirtuaBoza/reusable-components.svg?branch=master)](https://travis-ci.org/VirtuaBoza/reusable-components)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
