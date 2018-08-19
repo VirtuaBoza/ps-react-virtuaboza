@@ -1,5 +1,5 @@
 import React from 'react';
-import EyeIcon from 'reusable-components/EyeIcon';
+import EyeIcon from 'ps-react-virtuaboza/lib/EyeIcon';
 
 export default function EyeIconExample() {
   return <EyeIcon />;

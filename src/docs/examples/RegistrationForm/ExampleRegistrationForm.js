@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import RegistrationForm from 'reusable-components/RegistrationForm';
+import RegistrationForm from 'ps-react-virtuaboza/lib/RegistrationForm';
 
 export default class ExampleRegistrationFOrm extends Component {
   onSubmit = user => {

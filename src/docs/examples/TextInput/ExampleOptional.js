@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TextInput from 'reusable-components/TextInput';
+import TextInput from 'ps-react-virtuaboza/lib/TextInput';
 
 export default class ExampleOptional extends Component {
   render() {

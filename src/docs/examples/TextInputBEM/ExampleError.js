@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TextInputBEM from 'reusable-components/TextInputBEM';
+import TextInputBEM from 'ps-react-virtuaboza/lib/TextInputBEM';
 
 export default class ExampleError extends Component {
   render() {

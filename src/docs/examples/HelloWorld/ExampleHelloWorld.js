@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from 'reusable-components/HelloWorld';
+import HelloWorld from 'ps-react-virtuaboza/lib/HelloWorld';
 
 export default function ExampleHelloWorld() {
   return <HelloWorld message="Pluralsight viewers!" />;

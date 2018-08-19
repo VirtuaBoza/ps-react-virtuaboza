@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TextInputStyledComponents from 'reusable-components/TextInputStyledComponents';
+import TextInputStyledComponents from 'ps-react-virtuaboza/lib/TextInputStyledComponents';
 
 export default class ExampleError extends Component {
   render() {
