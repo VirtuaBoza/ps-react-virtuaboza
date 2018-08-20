@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "main": "./lib/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VirtuaBoza/ps-react-virtuaboza.git"
+  },
   "engines": {
     "node": ">=8.11.3"
   },
