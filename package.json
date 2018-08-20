@@ -24,7 +24,7 @@
     "react-dom": "^16.4.2",
     "styled-components": "^3.4.2"
   },
-  "homepage": "http://virtuaboza.github.io/reusable-components/",
+  "homepage": "http://virtuaboza.github.io/ps-react-virtuaboza/",
   "scripts": {
     "prestart": "npm run gen:docs",
     "start": "npm-run-all --parallel gen:docs-watch start:docs",
