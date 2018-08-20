@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/VirtuaBoza/reusable-components.svg?branch=master)](https://travis-ci.org/VirtuaBoza/reusable-components)
+[![Build Status](https://travis-ci.org/VirtuaBoza/ps-react-virtuaboza.svg?branch=master)](https://travis-ci.org/VirtuaBoza/ps-react-virtuaboza)
 
 # Reusable Components
 
@@ -6,4 +6,4 @@ A library of React components created in "Creating Reusable React Components" on
 
 # Docs
 
-[Component documentation](https://virtuaboza.github.io/reusable-components/)
+[Component documentation](https://virtuaboza.github.io/ps-react-virtuaboza/)
