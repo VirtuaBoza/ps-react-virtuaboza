@@ -1,5 +1,5 @@
 import React from 'react';
-import NumberInput from 'mas-components/lib/NumberInput';
+import NumberInput from 'ps-react-virtuaboza/lib/NumberInput';
 
 /** Example with two decimal places */
 export default function Example() {
